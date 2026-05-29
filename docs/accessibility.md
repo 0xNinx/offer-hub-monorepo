@@ -29,7 +29,7 @@ WCAG 2.1 Level A is the foundational compliance level, while Level AA represents
 
 Our accessibility efforts cover:
 
-- ✅ The OFFER-HUB website and web application (https://offerhub.io)
+- ✅ The OFFER-HUB website and web application (https://offer-hub.tech)
 - ✅ All public-facing pages and features
 - ✅ User account and dashboard interfaces
 - ✅ Documentation and help resources
